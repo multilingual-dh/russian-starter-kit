@@ -5,7 +5,9 @@ Resources for getting started with DH methods in Russian.
 Google Colab lets you run the code described here using Google servers, and accessing files that you've stored in Google Drive.
 
 In Google Docs, click the big **+ New** button. 
+
 ![Google Drive new button](images/drive-new.png)
+
 Choose **More**, then **Connect more apps**. Search for `colab` and add Google Colaboratory to your Drive.
 
 ## If you have text files (.txt)...
